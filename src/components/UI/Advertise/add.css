@@ -1,0 +1,6 @@
+.carousel .thumbs {
+    display: none;
+}
+.image{
+object-fit: contain;
+}

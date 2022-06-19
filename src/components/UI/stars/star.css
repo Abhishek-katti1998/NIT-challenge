@@ -1,0 +1,12 @@
+
+.icon--star {
+    height: 24px;
+    width: 24px;
+    stroke: gold;
+
+}
+.icon--star--filled{
+       height: 24px;
+        width: 24px;
+    fill: gold;
+}

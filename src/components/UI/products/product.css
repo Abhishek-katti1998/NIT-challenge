@@ -1,0 +1,55 @@
+.icons--slider{
+   
+    height:24px;
+    width: 24px;
+    stroke:#495057;
+}
+.slider-control-centerright button{
+    border-radius: 50%;
+}
+.next--btn,.prev--btn{
+    border: none;
+   display: flex;
+   align-items: center;
+    height:32px;
+    width: 32px;
+    background-color: #fff;
+    box-shadow: 0px 10px 24px rgba(30,30,30,0.2);
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.carousal--container{
+    margin: 48px 32px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.medicine--title{
+align-self: flex-start;
+font-weight: 500;
+font-size: 24px;
+color:#343a40;
+line-height: 1.5;
+}
+.description--container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap:4px;
+    
+}
+
+.name{
+    font-weight: 500;
+    font-size: 16px;
+}
+.description{
+    font-weight: 400;
+    font-size: 14px;
+}
+.price{
+    font-weight: 400;
+    font-size: 14px;
+}
+
